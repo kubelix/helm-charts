@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   deployer:
   - apiVersion: v1
+    appVersion: 0.5.0
+    created: "2020-02-24T08:31:14.282194708Z"
+    description: The kubelix app deployment operator for kubernetes.
+    digest: 04ad9dcf9fbe6e636d3a3a72a4fceaa60c5c68ad656673bffb23fbeb8d577714
+    name: deployer
+    urls:
+    - deployer/deployer-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
     appVersion: 0.4.0
-    created: "2020-02-23T12:15:00.190294471Z"
+    created: "2020-02-24T08:31:14.281945311Z"
     description: The kubelix app deployment operator for kubernetes.
     digest: fdbf0de787e1a89050162a570d2526a296b7394592ffb8ad2b69c4c30ca11559
     name: deployer
@@ -12,7 +21,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2020-02-23T12:15:00.190072037Z"
+    created: "2020-02-24T08:31:14.281693445Z"
     description: The kubelix app deployment operator for kubernetes.
     digest: d45052e3f1152f73ba4c79ba7598f335c2ce958626d1f2dc91af1d39d9aea5c9
     name: deployer
@@ -21,11 +30,11 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.2.1
-    created: "2020-02-23T12:15:00.189794478Z"
+    created: "2020-02-24T08:31:14.281405006Z"
     description: The kubelix app deployment operator for kubernetes.
     digest: 660350297bbf3db644f874c5e2a9cc6fdbc6181b087d9b764b8001ca07cb7a0b
     name: deployer
     urls:
     - deployer/deployer-0.2.1.tgz
     version: 0.2.1
-generated: "2020-02-23T12:15:00.189401085Z"
+generated: "2020-02-24T08:31:14.280990964Z"
