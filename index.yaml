@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  deployer:
+  - apiVersion: v1
+    appVersion: 0.6.0
+    created: "2020-02-24T15:41:09.958485515Z"
+    description: The kubelix app deployment operator for kubernetes.
+    digest: aa563067026223c1b1a93edcbe29e3d273aa90a0921e92645ce3b1b91192d2ab
+    name: deployer
+    urls:
+    - deployer/deployer-0.6.0.tgz
+    version: 0.6.0
+generated: "2020-02-24T15:41:09.95757388Z"
